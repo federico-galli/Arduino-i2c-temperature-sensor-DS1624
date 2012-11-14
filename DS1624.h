@@ -8,7 +8,7 @@
 
 #ifndef DS1624_h
 #define DS1624_h
-#include "WProgram.h"
+//#include "WProgram.h"
 #include <Wire.h>
 
 #define CONTINUOUS_CONVERSION 0x00
